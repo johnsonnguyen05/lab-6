@@ -1,5 +1,5 @@
 
-def encode(password):  # johnson nguyen
+def encode(password):  # johnson lei
     encode = []
     password = list(password)
     password = [int(ele) for ele in password]
